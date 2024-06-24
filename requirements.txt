@@ -1,0 +1,7 @@
+langchain 
+langchain_community
+sse_starlette 
+langserve 
+uvicorn 
+fastapi 
+pyngrok
